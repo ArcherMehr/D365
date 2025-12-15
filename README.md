@@ -1,2 +1,2 @@
 # D365
-AI in DD365
+AI in D365
